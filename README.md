@@ -1,7 +1,12 @@
-# Accuknox
-1. Create a Folder Name it with Your Folder Name.
-2. Git Clone this Accuknox Folder within your Newly created Folder.
-3. Now go to the Terminal Add the Command "cd Accuknox"
-4. After going to the Accuknox directory Click "Npm install"
-5. After Run the Application using command "Npm Run dev".
-6. The Project has been Setup in React Redux Toolkit + Bootstrap.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
