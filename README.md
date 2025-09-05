@@ -1,12 +1,7 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Accuknox
+1. Create a Folder on Your Desktop Vs Code.
+2. On to The Terminal Clone this Project.
+3. After that Run the Cd "Cd on your Current Folder".
+4. Run the Next Command "Npm install" Your Node modules will be installed so that the Project viewed on the local host.
+5. Run next Command "Npm run dev", Now the Project is ready to Go.
+6. Click on the Localhost whichever is it showing click on that and Go for the Project.
